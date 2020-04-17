@@ -639,7 +639,10 @@ echo $i.",".$j."<br>";
 }
 // echo var_dump($aarr);
 ?>
-<?php  ///////Comparing Time\\\\\\\\\\\
+
+
+//Program to compare time
+<?php  
 //10:19PM 02:49AM 08:49AM 09:10AM
 $timearr=array('10:19PM','02:49AM','08:49AM','09:10AM','12:49AM'
 ,'11:49AM');
