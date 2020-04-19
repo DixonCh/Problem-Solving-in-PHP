@@ -266,7 +266,8 @@ echo $v."\t";
 else if((strlen($value[$i]))%2!=0)
 echo "-1<br>";
 }
-//////////////Anagram with intersection Technique////////
+//***************************************************************
+//Anagram with intersection Technique
 //$value=array("aaabbb","ab","bbbc","moop","xyyx","xvxbbbxx");
 $string1="xvxbbbxx";
 if((strlen($string1))%2==0)
