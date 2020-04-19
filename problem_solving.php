@@ -621,6 +621,8 @@ $summ=$summ+$axa;
 }
 echo "<br>Max Score: ".$summ."<br>";
 ?>
+
+//Program having bug
 <?php  //////////// Find the Bug\\\\\\\\\\\\\\\\\\\\//////
 $n=5;
 $item=array("OOOOO","OOXOO","OOOOO","OOOOO","OOOOO"); 
