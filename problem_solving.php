@@ -623,7 +623,8 @@ echo "<br>Max Score: ".$summ."<br>";
 ?>
 
 //Program having bug
-<?php  //////////// Find the Bug\\\\\\\\\\\\\\\\\\\\//////
+//Find the bug in the program
+<?php  
 $n=5;
 $item=array("OOOOO","OOXOO","OOOOO","OOOOO","OOOOO"); 
 //$aarr=array();
